@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<test-results name="D:\Projets\Exercism\delphi\anagram\Anagram.exe" total="12" errors="0" failures="0" ignored="0" inconclusive="0" not-run="0" skipped="0" invalid="0" date="2022-03-02" time="0.004">
+  <culture-info current-culture="en" current-uiculture="en" />
+  <test-suite type="Assembly" name="Anagram.exe" executed="true" result="Success" success="True" time="0.004" asserts="0">
+    <results>
+        <test-suite type="Namespace" name="uAnagramTests" executed="true" result="Success" success="True" time="0.004" asserts="0" >
+          <results>
+              <test-suite type="Fixture" name="AnagramTests" executed="True" result="Success" success="True" time="0.004" >
+                <results>
+                  <test-case name="no_matches" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="detects_two_anagrams" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="does_not_detect_anagram_subsets" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="detects_anagram" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="detects_three_anagrams" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="does_not_detect_non_anagrams_with_identical_checksum" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="detects_anagrams_case_insensitively" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="detects_anagrams_using_case_insensitive_subject" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="detects_anagrams_using_case_insensitive_possible_matches" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="does_not_detect_a_anagram_if_the_original_word_is_repeated" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="anagrams_must_use_all_letters_exactly_once" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                  <test-case name="words_are_not_anagrams_of_themselves_case_insensitive" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                </results>
+              </test-suite>
+          </results>
+        </test-suite>
+    </results>
+  </test-suite>
+</test-results>
